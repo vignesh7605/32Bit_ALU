@@ -119,6 +119,8 @@ source /cadence/install/cshrc (mention the path of the tools)
 (The path of cshrc could vary depending on the installation destination)
       
 After this you can see the window like below 
+![Screenshot_2025-04-29_134534 1](https://github.com/user-attachments/assets/c9694cb1-e222-4f6b-933b-7230b20575be)
+
 
 
 ### Fig 2: Invoke the Cadence Environment
